@@ -17,5 +17,6 @@ dependencies:
   # R environment
   - r-irkernel
   - r-base>=4
-  - r-tidyverse
-
+  - r-gplots
+  - bioconductor-limma
+  - bioconductor-edger
