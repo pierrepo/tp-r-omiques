@@ -1,4 +1,4 @@
-# Les omiques - TP 2 - Analyse d'un jeu de données de RNA-seq
+# Les omiques : Analyse d'un jeu de données de RNA-seq
 
 Ce deuxième TP a pour objectif de vous initier aux différentes étapes de l’analyse d’un jeu de données de RNA-seq après le mapping des reads sur le génome de référence.
 
